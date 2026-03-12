@@ -1,4 +1,4 @@
-## Project: Voltage Stability Assessment in Large-Scale Power Systems
+## Project: Voltage Stability Assessment Methods in Large-Scale Power Systems
 
 ### Project Resources
 * [View Full Review Paper (PDF)](./Voltage%20Stability%20Review%20For%20submission_Final%20%281%29.pdf)
