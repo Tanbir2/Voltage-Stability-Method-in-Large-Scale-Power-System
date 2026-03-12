@@ -1,10 +1,10 @@
-## Project: Voltage Stability Assessment Methods in Large-Scale Power Systems
+## Review: Voltage Stability Assessment Methods in Large-Scale Power Systems
 
 ### Project Resources
 * [View Full Review Paper (PDF)](./Voltage%20Stability%20Review%20For%20submission_Final%20%281%29.pdf)
 
 ### Project Executive Summary
-This research project, completed for ENEL 670, synthesizes the current landscape of Voltage Stability Assessment (VSA). As modern grids transition toward Inverter-Based Resources (IBRs), traditional stability margins are shrinking. This study evaluates the transition from offline deterministic tools to real-time, AI-enhanced hybrid frameworks.
+This review project, synthesizes the current landscape of Voltage Stability Assessment (VSA). As modern grids transition toward Inverter-Based Resources (IBRs), traditional stability margins are shrinking. This study evaluates the transition from offline deterministic tools to real-time, AI-enhanced hybrid frameworks.
 
 ### Comparison of Assessment Paradigms
 
