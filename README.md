@@ -1,12 +1,13 @@
 ## Project: Voltage Stability Assessment in Large-Scale Power Systems
 
 ### Project Resources
-* [View Full Review Paper (PDF)](./Voltage%20Stability%20Review%20For%20submission_Final.pdf)
+* [View Full Review Paper (PDF)](./Voltage%20Stability%20Review%20For%20submission_Final%20%281%29.pdf)
 
 ### Project Executive Summary
 This research project, completed for ENEL 670, synthesizes the current landscape of Voltage Stability Assessment (VSA). As modern grids transition toward Inverter-Based Resources (IBRs), traditional stability margins are shrinking. This study evaluates the transition from offline deterministic tools to real-time, AI-enhanced hybrid frameworks.
 
 ### Comparison of Assessment Paradigms
+
 
 
 | Category | Specific Methods | Primary Advantage | Key Limitation |
@@ -19,6 +20,7 @@ This research project, completed for ENEL 670, synthesizes the current landscape
 ### Key Takeaways & Industry Insights
 
 
+
 | Insight Area | The Challenge | The Emerging Solution |
 | :--- | :--- | :--- |
 | Inverter Challenge | Loss of reactive power support from IBRs. | Real-time tracking of thinning margins. |
@@ -26,6 +28,7 @@ This research project, completed for ENEL 670, synthesizes the current landscape
 | Hybrid Frameworks | Pure AI can violate physical grid constraints. | Physics-Guided AI (PIML) for law-abiding predictions. |
 
 ### Summary of Deterministic Analysis
+
 
 
 | Analysis Type | Focus | Key Indicator |
